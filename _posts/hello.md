@@ -1,10 +1,11 @@
 ---
-title: "Post: Standard"
-excerpt_separator: "<!--more-->"
-categories:
-  - Post Formats
+title:  "Welcome to Jekyll!"
+header:
+  teaser: "/assets/images/500x300.png"
+categories: 
+  - Jekyll
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - update
 ---
+
+Hello!
