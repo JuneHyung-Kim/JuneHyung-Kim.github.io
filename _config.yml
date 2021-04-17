@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko_KR"
-title                    : "Untitled"
+title                    : "Don't Settle for Mediocrity"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : 궁금해진 것을 공부하고 정리하는 블로그
 name                     : "June-Hyung Kim"
 description              : "Systems SW Developer"
 url                      : "https://junehyung-kim.github.io"
